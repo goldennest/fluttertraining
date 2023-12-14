@@ -1,0 +1,1 @@
+export 'package:vkmusic/model/music_model.dart';
